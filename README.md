@@ -1,3 +1,3 @@
 # Optimization
-METU EE553 courses implementations
+METU EE553 course implementations
  
